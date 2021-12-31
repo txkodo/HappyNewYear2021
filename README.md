@@ -1,2 +1,2 @@
 # HappyNewYear2022
-AR.js project for 2021 New Year's card.
+AR.js project for 2022 New Year's card.
